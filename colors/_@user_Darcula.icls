@@ -4,7 +4,7 @@
     <property name="created">2017-12-08T11:37:59</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.1.0</property>
-    <property name="modified">2018-05-31T08:19:38</property>
+    <property name="modified">2018-07-01T14:08:25</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="20" />
@@ -58,7 +58,7 @@
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bb5d00" />
+        <option name="FOREGROUND" value="ee8600" />
       </value>
     </option>
   </attributes>
