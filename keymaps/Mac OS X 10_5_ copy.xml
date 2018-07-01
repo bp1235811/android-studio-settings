@@ -1,10 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="Android.SyncProject">
-    <keyboard-shortcut first-keystroke="shift ctrl meta s" />
+  <action id="NextSplitter" />
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="alt tab" />
   </action>
-  <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="alt f7" />
-    <keyboard-shortcut first-keystroke="meta back_quote" />
-  </action>
-  <action id="NextProjectWindow" />
 </keymap>
