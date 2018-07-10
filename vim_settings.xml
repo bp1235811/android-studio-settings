@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/kotlin/com/pangea/android/core/dagger/components/AppComponent.kt" timestamp="1531169366807">
@@ -12,12 +12,18 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/AndroidManifest.xml" timestamp="1531169642678" />
+      <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/kotlin/com/pangea/android/view/ui/activities/FxCalcActivity.kt" timestamp="1531232714483">
+        <mark key="[" line="884" column="25" />
+        <mark key="]" line="884" column="24" />
+        <mark key="." line="884" column="24" />
+        <mark key="^" line="884" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/java/com/pangea/android/view/core/exceptions/throwables/InvalidCardException.java" timestamp="1531230104274" />
-      <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/kotlin/com/pangea/android/view/tracking/FxCalcTracker.kt" timestamp="1531231566129">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="3" />
+      <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/kotlin/com/pangea/android/view/tracking/FxCalcTracker.kt" timestamp="1531232681637">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/AndroidManifest.xml" timestamp="1531169655739">
         <mark key="[" line="317" column="51" />
@@ -51,7 +57,7 @@
         <text encoding="base64">Ly8gICAgZnVuIGluamVjdChvYmo6IEZ4QWN0aXZpdHkpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Ly8gICAgZnVuIGluamVjdChvYmo6IFJlcGVhdFRyYW5zZmVySW50ZW50RnJhZ21lbnQpCg==</text>
@@ -63,7 +69,7 @@
         <text>q</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
     </registers>
     <search>
