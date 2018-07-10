@@ -8,16 +8,25 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531230271834">
+      <file name="/Dummy.txt" timestamp="1531231521072">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/AndroidManifest.xml" timestamp="1531169642678" />
       <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/java/com/pangea/android/view/core/exceptions/throwables/InvalidCardException.java" timestamp="1531230104274" />
+      <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/kotlin/com/pangea/android/view/tracking/FxCalcTracker.kt" timestamp="1531231566129">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/AndroidManifest.xml" timestamp="1531169655739">
         <mark key="[" line="317" column="51" />
         <mark key="]" line="317" column="50" />
         <mark key="." line="317" column="50" />
         <mark key="^" line="317" column="50" />
+      </file>
+      <file name="/fragment.java" timestamp="1531231508828">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/kotlin/com/pangea/android/view/ui/activities/ReceiverListActivity.kt" timestamp="1531169131241">
         <mark key="'" line="0" column="0" />
