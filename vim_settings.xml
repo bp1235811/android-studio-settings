@@ -1,0 +1,89 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/kotlin/com/pangea/android/core/dagger/components/AppComponent.kt" timestamp="1531169366807">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1531231521072">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/AndroidManifest.xml" timestamp="1531169642678" />
+      <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/kotlin/com/pangea/android/view/ui/activities/FxCalcActivity.kt" timestamp="1531232714483">
+        <mark key="[" line="884" column="25" />
+        <mark key="]" line="884" column="24" />
+        <mark key="." line="884" column="24" />
+        <mark key="^" line="884" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/java/com/pangea/android/view/core/exceptions/throwables/InvalidCardException.java" timestamp="1531230104274" />
+      <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/kotlin/com/pangea/android/view/tracking/FxCalcTracker.kt" timestamp="1531232681637">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/AndroidManifest.xml" timestamp="1531169655739">
+        <mark key="[" line="317" column="51" />
+        <mark key="]" line="317" column="50" />
+        <mark key="." line="317" column="50" />
+        <mark key="^" line="317" column="50" />
+      </file>
+      <file name="/fragment.java" timestamp="1531231508828">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/kotlin/com/pangea/android/view/ui/activities/ReceiverListActivity.kt" timestamp="1531169131241">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="55" />
+        <mark key="." line="79" column="27" />
+        <mark key="^" line="79" column="27" />
+      </file>
+      <file name="/AppComponent.kt" timestamp="1531169349834" />
+    </filemarks>
+    <jumps>
+      <jump line="188" column="8" filename="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/kotlin/com/pangea/android/view/ui/activities/ReceiverListActivity.kt" />
+      <jump line="210" column="4" filename="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/kotlin/com/pangea/android/view/ui/activities/ReceiverListActivity.kt" />
+      <jump line="245" column="0" filename="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/kotlin/com/pangea/android/view/ui/activities/ReceiverListActivity.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/kotlin/com/pangea/android/view/ui/activities/ReceiverListActivity.kt" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGFkZE5ld1JlY2VpdmVyKGlzU2VuZFRvU2VsZjogQm9vbGVhbikgewo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgZnVuIGluamVjdChvYmo6IEZ4QWN0aXZpdHkpCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>p</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgZnVuIGluamVjdChvYmo6IFJlcGVhdFRyYW5zZmVySW50ZW50RnJhZ21lbnQpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgZnVuIGluamVjdChvYmo6IEZ4RnJhZ21lbnQpCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+      <register name="-" type="4">
+        <text>p</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>q</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
