@@ -11,14 +11,12 @@
       <file name="/Dummy.txt" timestamp="1531231521072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/AndroidManifest.xml" timestamp="1531169642678" />
       <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/kotlin/com/pangea/android/view/ui/activities/FxCalcActivity.kt" timestamp="1531232714483">
         <mark key="[" line="884" column="25" />
         <mark key="]" line="884" column="24" />
         <mark key="." line="884" column="24" />
         <mark key="^" line="884" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/java/com/pangea/android/view/core/exceptions/throwables/InvalidCardException.java" timestamp="1531230104274" />
       <file name="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/kotlin/com/pangea/android/view/tracking/FxCalcTracker.kt" timestamp="1531232681637">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="7" />
@@ -41,7 +39,6 @@
         <mark key="." line="79" column="27" />
         <mark key="^" line="79" column="27" />
       </file>
-      <file name="/AppComponent.kt" timestamp="1531169349834" />
     </filemarks>
     <jumps>
       <jump line="188" column="8" filename="$USER_HOME$/Documents/workspace/pangea/pangeaandroid/pangea/app/src/main/kotlin/com/pangea/android/view/ui/activities/ReceiverListActivity.kt" />
@@ -77,9 +74,12 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>q</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
     <editor>
