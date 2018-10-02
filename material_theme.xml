@@ -2,14 +2,17 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.4.1.5-2018.1" />
     <option name="selectedTheme" value="MONOKAI" />
-    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColor" value="cb1412" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="highlightThickness" value="1" />
     <option name="accentColor" value="cb6341" />
+    <option name="hideFileIcons" value="true" />
+    <option name="tabsHeight" value="25" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="darkTitleBar" value="true" />
-    <option name="tabOpacity" value="43" />
+    <option name="tabOpacity" value="70" />
     <option name="compactDropdowns" value="true" />
-    <option name="settingsSelectedTab" value="1" />
     <option name="userId" value="-4bc7806b:166361e045c:-8000" />
     <option name="allowDataCollection" value="true" />
   </component>
