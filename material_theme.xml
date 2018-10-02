@@ -5,14 +5,19 @@
     <option name="highlightColor" value="cb1412" />
     <option name="highlightColorEnabled" value="true" />
     <option name="highlightThickness" value="1" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="rightTreeIndent" value="8" />
+    <option name="leftTreeIndent" value="0" />
     <option name="accentColor" value="cb6341" />
-    <option name="hideFileIcons" value="true" />
+    <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="25" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="tabOpacity" value="70" />
     <option name="compactDropdowns" value="true" />
+    <option name="monochromeIcons" value="true" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="userId" value="-4bc7806b:166361e045c:-8000" />
     <option name="allowDataCollection" value="true" />
   </component>
