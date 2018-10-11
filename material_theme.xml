@@ -13,8 +13,8 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="darkTitleBar" value="true" />
-    <option name="compactDropdowns" value="true" />
     <option name="settingsSelectedTab" value="2" />
     <option name="userId" value="-640ef07e:166419f0450:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
