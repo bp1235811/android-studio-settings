@@ -7,7 +7,6 @@
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="accentColor" value="a550a6" />
-    <option name="hideFileIcons" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="25" />
     <option name="isCompactStatusBar" value="true" />
@@ -16,7 +15,7 @@
     <option name="darkTitleBar" value="true" />
     <option name="indicatorStyle" value="None" />
     <option name="compactDropdowns" value="true" />
-    <option name="settingsSelectedTab" value="3" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="userId" value="-640ef07e:166419f0450:-7fff" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="isHighContrast" value="true" />
