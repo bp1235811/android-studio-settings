@@ -1,23 +1,24 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactDropdowns" value="true" />
-    <option name="compactSidebar" value="true" />
+    <option name="version" value="2.9.6.4" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="highlightColor" value="cbae00" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="isCompactStatusBar" value="true" />
-    <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="accentColor" value="a550a6" />
+    <option name="compactSidebar" value="true" />
+    <option name="tabsHeight" value="25" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="customSidebarHeight" value="20" />
+    <option name="darkTitleBar" value="true" />
+    <option name="indicatorStyle" value="None" />
+    <option name="compactDropdowns" value="true" />
+    <option name="settingsSelectedTab" value="2" />
+    <option name="userId" value="-640ef07e:166419f0450:-7fff" />
+    <option name="treeFontSizeEnabled" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="treeFontSizeEnabled" value="true" />
-    <option name="indicatorStyle" value="None" />
-    <option name="customSidebarHeight" value="20" />
-    <option name="settingsSelectedTab" value="2" />
-    <option name="tabsHeight" value="25" />
-    <option name="accentColor" value="a550a6" />
-    <option name="highlightColor" value="cbae00" />
-    <option name="selectedTheme" value="DARKER" />
-    <option name="userId" value="-640ef07e:166419f0450:-7fff" />
-    <option name="version" value="3.5.0.1" />
   </component>
 </application>
