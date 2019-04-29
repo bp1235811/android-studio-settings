@@ -14,6 +14,8 @@
     <option name="indicatorStyle" value="None" />
     <option name="customSidebarHeight" value="20" />
     <option name="tabOpacity" value="25" />
+    <option name="treeFontSize" value="16" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="25" />
     <option name="accentColor" value="a550a6" />
     <option name="highlightColor" value="cbae00" />
