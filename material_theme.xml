@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="arrowsStyle" value="Darcula" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
@@ -12,9 +13,13 @@
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
+    <option name="useMaterialFont2" value="true" />
     <option name="indicatorStyle" value="None" />
     <option name="customSidebarHeight" value="20" />
     <option name="tabOpacity" value="25" />
+    <option name="treeFontSize" value="14" />
+    <option name="leftTreeIndent" value="2" />
+    <option name="settingsSelectedTab" value="5" />
     <option name="tabsHeight" value="25" />
     <option name="accentColor" value="a550a6" />
     <option name="highlightColor" value="cbae00" />
