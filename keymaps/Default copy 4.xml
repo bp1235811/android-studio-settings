@@ -2,6 +2,7 @@
   <action id="ReformatCode" />
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="Vcs.ReformatCommitMessage" />
 </keymap>
