@@ -1,7 +1,28 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="arrowsStyle" value="Darcula" />
+    <option name="allowDataCollection" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="userId" value="433eda1f:16c73cc4242:-8000" />
-    <option name="version" value="3.5.0.1" />
+    <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="indicatorStyle" value="None" />
+    <option name="customSidebarHeight" value="20" />
+    <option name="tabOpacity" value="25" />
+    <option name="treeFontSize" value="14" />
+    <option name="leftTreeIndent" value="2" />
+    <option name="tabsHeight" value="12" />
+    <option name="accentColor" value="a550a6" />
+    <option name="highlightColor" value="cbae00" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="-640ef07e:166419f0450:-7fff" />
+    <option name="version" value="4.3.1" />
+    <option name="tabHighlightPosition" value="Bottom" />
   </component>
 </application>
