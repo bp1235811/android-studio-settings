@@ -4,21 +4,9 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorSelectWord" />
-  <action id="EditorToggleCase">
-    <keyboard-shortcut first-keystroke="shift ctrl u" />
-    <keyboard-shortcut first-keystroke="shift alt u" />
-  </action>
   <action id="ExpressionTypeInfo" />
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
-  <action id="UpdateRunningApplication" />
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl f10" />
-  </action>
-  <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="ctrl alt f10" />
-  </action>
-  <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase" />
 </keymap>
