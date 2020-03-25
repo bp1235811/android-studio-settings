@@ -9,12 +9,17 @@
   <action id="EditorPasteFromX11" />
   <action id="EditorSelectWord" />
   <action id="EslintImportCodeStyle">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
     <mouse-shortcut keystroke="shift button2" />
   </action>
   <action id="ExpressionTypeInfo" />
   <action id="FlowJS.Restart.All.Servers">
     <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+  </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
