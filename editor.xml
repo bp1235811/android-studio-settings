@@ -1,7 +1,4 @@
 <application>
-  <component name="EditorSettings">
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
-  </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
   </component>
