@@ -5,7 +5,6 @@
     <option name="contrastMode" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="allowDataCollection" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -26,7 +25,7 @@
     <option name="highlightColor" value="cbae00" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-640ef07e:166419f0450:-7fff" />
-    <option name="version" value="4.5.2" />
+    <option name="version" value="5.2.0" />
     <option name="tabHighlightPosition" value="Bottom" />
   </component>
 </application>
