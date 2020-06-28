@@ -7,6 +7,7 @@
     <option name="highlightColorEnabled" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactSidebar" value="true" />
+    <option name="darkTitleBar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -20,7 +21,7 @@
     <option name="customSidebarHeight" value="20" />
     <option name="tabOpacity" value="25" />
     <option name="leftTreeIndent" value="2" />
-    <option name="settingsSelectedTab" value="3" />
+    <option name="settingsSelectedTab" value="5" />
     <option name="tabsHeight" value="12" />
     <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="cbae00" />
