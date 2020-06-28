@@ -14,12 +14,6 @@
     <keyboard-shortcut first-keystroke="shift meta alt p" />
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
-  <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="shift meta j" />
-  </action>
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="shift meta l" />
-  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
