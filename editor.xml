@@ -1,4 +1,9 @@
 <application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="19" />
+    <option name="FONT_FAMILY" value="Inconsolata for Powerline" />
+    <option name="LINE_SPACING" value="1.05" />
+  </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
   </component>
