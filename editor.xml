@@ -4,6 +4,9 @@
     <option name="FONT_FAMILY" value="Inconsolata for Powerline" />
     <option name="LINE_SPACING" value="1.05" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+  </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
   </component>
