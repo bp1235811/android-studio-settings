@@ -1,16 +1,12 @@
-<scheme name="Bhavik-Custom 1080p" version="142" parent_scheme="Darcula">
+<scheme name="BhavikMacOS" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-09-17T09:04:17</property>
-    <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.5.0.21</property>
-    <property name="modified">2020-08-02T13:00:17</property>
-    <property name="originalScheme">Bhavik-Custom</property>
+    <property name="created">2020-08-03T10:52:43</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2020.2.0.0</property>
+    <property name="modified">2020-08-03T10:52:56</property>
+    <property name="originalScheme">BhavikLinux</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
@@ -34,9 +30,6 @@
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
   </colors>
   <attributes>
-    <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value />
-    </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="fff121" />
