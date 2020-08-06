@@ -1,16 +1,11 @@
 <scheme name="BhavikMacOS" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2020-08-03T10:52:43</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-08-06T10:12:04</property>
+    <property name="modified">2020-08-06T10:37:29</property>
     <property name="originalScheme">BhavikLinux</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="18" />
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="141414" />
     <option name="FILESTATUS_ADDED" value="c3e88d" />
