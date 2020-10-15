@@ -6,5 +6,12 @@
       <path value="MainToolBarSettings" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Github.View.Pull.Request" is_group="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <path value="Android" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
   </component>
 </application>
