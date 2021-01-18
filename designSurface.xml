@@ -2,12 +2,34 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../layout/custom_preview.xml" value="0.5" />
-        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_donation_detail.xml" value="0.1" />
-        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_donations_landing.xml" value="0.223731884057971" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.5825641025641025" />
+        <entry key="commons/devices-presentation/src/main/res/layout/fragment_recycler_view.xml" value="0.5651041666666666" />
+        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_edittext_uhc.xml" value="0.2351851851851852" />
+        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_spinner_error_uhc.xml" value="0.2351851851851852" />
+        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_spinner_selected_uhc.xml" value="0.2351851851851852" />
+        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_spinner_uhc.xml" value="0.2351851851851852" />
+        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_tab_selected_uhc.xml" value="0.2351851851851852" />
+        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_tab_uhc.xml" value="0.2351851851851852" />
+        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/ic_warning_ic.xml" value="0.2351851851851852" />
+        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/primary_button_pressed_uhc.xml" value="0.2351851851851852" />
+        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/secondary_button_normal_uhc.xml" value="0.2351851851851852" />
+        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/selector_primary_button_uhc.xml" value="0.2351851851851852" />
+        <entry key="rewards/rallyrewards-bundle/src/main/res/layout/activity_rally_rewards.xml" value="0.267983789260385" />
+        <entry key="rewards/rallyrewards-presentation/src/main/res/drawable/ic_hollow_circle.xml" value="0.2351851851851852" />
+        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_donation_detail.xml" value="0.3663949275362319" />
+        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_donations_landing.xml" value="0.274822695035461" />
+        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_donations_success.xml" value="0.3066123188405797" />
+        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_gift_card_detail.xml" value="0.5651041666666666" />
+        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_gift_card_landing.xml" value="0.5651041666666666" />
+        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_gift_card_order_summary.xml" value="0.3619791666666667" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_marketplace_detail.xml" value="0.22552083333333334" />
+        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_rally_rewards.xml" value="0.5651041666666666" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_sweepstakes_detail.xml" value="0.47644927536231885" />
+        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_sweepstakes_entry_success.xml" value="0.5651041666666666" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_sweepstakes_landing.xml" value="0.5619791666666667" />
+        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/item_donations.xml" value="0.33" />
+        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/item_rally_rewards_header.xml" value="0.33016304347826086" />
+        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/item_sweepstakes.xml" value="0.3903985507246377" />
       </map>
     </option>
   </component>
