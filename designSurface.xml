@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../layout/custom_preview.xml" value="0.35185185185185186" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="commons/devices-presentation/src/main/res/layout/fragment_recycler_view.xml" value="0.5651041666666666" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_edittext_uhc.xml" value="0.2351851851851852" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_spinner_error_uhc.xml" value="0.2351851851851852" />
@@ -32,7 +32,7 @@
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/item_donations.xml" value="0.33" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/item_rally_rewards_header.xml" value="0.33016304347826086" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/item_sweepstakes.xml" value="0.3903985507246377" />
-        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/layout_notification_banner.xml" value="0.39492753623188404" />
+        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/layout_notification_banner.xml" value="0.267983789260385" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/layout_your_overview_banner.xml" value="0.39492753623188404" />
       </map>
     </option>
