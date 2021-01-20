@@ -2,7 +2,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.35833333333333334" />
+        <entry key="commons/common-ui/src/main/res/drawable/bg_edittext_error.xml" value="0.35833333333333334" />
+        <entry key="commons/common-ui/src/main/res/drawable/ic_info_ocean.xml" value="0.35833333333333334" />
         <entry key="commons/devices-presentation/src/main/res/layout/fragment_recycler_view.xml" value="0.5651041666666666" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_edittext_uhc.xml" value="0.2351851851851852" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_spinner_error_uhc.xml" value="0.2351851851851852" />
