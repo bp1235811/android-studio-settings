@@ -54,7 +54,7 @@
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_spinner_uhc.xml" value="0.2351851851851852" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_tab_selected_uhc.xml" value="0.33177083333333335" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_tab_uhc.xml" value="0.33177083333333335" />
-        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/ic_close_gray_uhc.xml" value="0.3541666666666667" />
+        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/ic_close_gray_uhc.xml" value="0.5661458333333333" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/ic_info_ocean.xml" value="0.5661458333333333" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/ic_info_ocean_uhc.xml" value="0.5661458333333333" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/ic_right_caret_uhc.xml" value="0.5661458333333333" />
@@ -124,6 +124,7 @@
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/layout_notification_banner.xml" value="0.4286871961102107" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/layout_your_overview_banner.xml" value="0.5510416666666667" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/view_support_contact.xml" value="0.40443840579710144" />
+        <entry key="rewards/stride-presentation/src/main/res/drawable/ic_info_ocean.xml" value="0.5661458333333333" />
       </map>
     </option>
   </component>
