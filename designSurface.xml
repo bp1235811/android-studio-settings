@@ -8,8 +8,8 @@
         <entry key="commons/common-ui/src/main/res/drawable/bg_edittext_selected.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/bg_orange_gradient.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/bg_round_light_leaf.xml" value="0.5277777777777778" />
-        <entry key="commons/common-ui/src/main/res/drawable/ic_close.xml" value="0.5092592592592593" />
-        <entry key="commons/common-ui/src/main/res/drawable/ic_close_gray.xml" value="0.5092592592592593" />
+        <entry key="commons/common-ui/src/main/res/drawable/ic_close.xml" value="0.5661458333333333" />
+        <entry key="commons/common-ui/src/main/res/drawable/ic_close_gray.xml" value="0.5661458333333333" />
         <entry key="commons/common-ui/src/main/res/drawable/ic_close_red.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/ic_close_white.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/ic_coins_yellow.xml" value="0.5092592592592593" />
@@ -54,6 +54,7 @@
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_spinner_uhc.xml" value="0.2351851851851852" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_tab_selected_uhc.xml" value="0.2351851851851852" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_tab_uhc.xml" value="0.33177083333333335" />
+        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/ic_close_gray_uhc.xml" value="0.33177083333333335" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/ic_info_ocean.xml" value="0.5661458333333333" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/ic_info_ocean_uhc.xml" value="0.5661458333333333" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/ic_right_caret_uhc.xml" value="0.5661458333333333" />
