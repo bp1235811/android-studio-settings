@@ -49,10 +49,10 @@
         <entry key="commons/common-ui/src/main/res/drawable/tertiary_button1_pressed.xml" value="0.5092592592592593" />
         <entry key="commons/devices-presentation/src/main/res/layout/fragment_recycler_view.xml" value="0.5651041666666666" />
         <entry key="health-activity/missions-presentation/src/main/res/layout/mission_checkin_done_view.xml" value="0.5510416666666667" />
-        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_edittext_uhc.xml" value="0.2351851851851852" />
+        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_edittext_uhc.xml" value="0.33177083333333335" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_spinner_error_uhc.xml" value="0.33177083333333335" />
-        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_spinner_selected_uhc.xml" value="0.2351851851851852" />
-        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_spinner_uhc.xml" value="0.2351851851851852" />
+        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_spinner_selected_uhc.xml" value="0.33177083333333335" />
+        <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_spinner_uhc.xml" value="0.33177083333333335" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_tab_selected_uhc.xml" value="0.33177083333333335" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_tab_uhc.xml" value="0.33177083333333335" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/ic_close_gray_uhc.xml" value="0.5661458333333333" />
