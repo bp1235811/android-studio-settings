@@ -18,7 +18,7 @@
         <entry key="commons/common-ui/src/main/res/drawable/ic_goal_alcohol.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/ic_hamburger.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/ic_illustration_dance_any_time.xml" value="0.5092592592592593" />
-        <entry key="commons/common-ui/src/main/res/drawable/ic_info_ocean.xml" value="0.5092592592592593" />
+        <entry key="commons/common-ui/src/main/res/drawable/ic_info_ocean.xml" value="0.5661458333333333" />
         <entry key="commons/common-ui/src/main/res/drawable/ic_no_image.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/ic_search_white_24dp.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/ic_warning_orange.xml" value="0.5092592592592593" />
@@ -65,7 +65,7 @@
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/secondary_button_pressed_uhc.xml" value="0.5661458333333333" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/selector_primary_button_uhc.xml" value="0.2351851851851852" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/selector_secondary_button_uhc.xml" value="0.33177083333333335" />
-        <entry key="rewards/rallyrewards-bundle/src/main/res/layout/activity_rally_rewards.xml" value="0.31666666666666665" />
+        <entry key="rewards/rallyrewards-bundle/src/main/res/layout/activity_rally_rewards.xml" value="0.5510416666666667" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/drawable/activity_divider.xml" value="0.5661458333333333" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/drawable/bg_po_card_bottom.xml" value="0.5661458333333333" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/drawable/bg_po_card_middle.xml" value="0.5661458333333333" />
