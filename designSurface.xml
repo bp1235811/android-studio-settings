@@ -124,6 +124,7 @@
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_po_summary.xml" value="0.5510416666666667" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_rally_rewards.xml" value="0.5651041666666666" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_rewards_dashboard.xml" value="0.3723150357995227" />
+        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_see_all_giftcards.xml" value="0.1" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_sweepstakes_detail.xml" value="0.47644927536231885" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_sweepstakes_entry_success.xml" value="0.5651041666666666" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_sweepstakes_landing.xml" value="0.5619791666666667" />
