@@ -47,9 +47,15 @@
         <entry key="commons/common-ui/src/main/res/drawable/shape_round_blue_pressed.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/tertiary_button1_normal.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/tertiary_button1_pressed.xml" value="0.5092592592592593" />
+        <entry key="commons/common-ui/src/main/res/layout/view_text_input.xml" value="0.5510416666666667" />
         <entry key="commons/devices-presentation/src/main/res/layout/fragment_recycler_view.xml" value="0.5651041666666666" />
+        <entry key="health-activity/challenges-presentation/src/main/res/layout/fragment_challenges_join_by_invite_code.xml" value="0.5510416666666667" />
         <entry key="health-activity/goals-presentation/src/main/res/layout/fragment_goals_summary.xml" value="0.5510416666666667" />
         <entry key="health-activity/missions-presentation/src/main/res/layout/mission_checkin_done_view.xml" value="0.5510416666666667" />
+        <entry key="rally-android-app/survey-presentation/src/main/res/layout/fragment_survey.xml" value="0.5510416666666667" />
+        <entry key="rally-android-app/survey-presentation/src/main/res/layout/view_survey_error.xml" value="0.5510416666666667" />
+        <entry key="rally-android-app/survey-presentation/src/main/res/layout/view_survey_interstitial.xml" value="0.5510416666666667" />
+        <entry key="rally-android-app/survey-presentation/src/main/res/layout/view_survey_question_list.xml" value="0.5510416666666667" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_edittext_normal_uhc.xml" value="0.3619791666666667" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_edittext_uhc.xml" value="0.33177083333333335" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_spinner_error_uhc.xml" value="0.33177083333333335" />
