@@ -24,6 +24,8 @@
         <entry key="commons/common-ui/src/main/res/drawable/ic_warning_orange.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/poppy_horizontal_gradient.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/poppy_vertical_gradient.xml" value="0.5092592592592593" />
+        <entry key="commons/common-ui/src/main/res/drawable/primary_alt_button_normal_uhc.xml" value="0.5661458333333333" />
+        <entry key="commons/common-ui/src/main/res/drawable/primary_alt_button_pressed_uhc.xml" value="0.5661458333333333" />
         <entry key="commons/common-ui/src/main/res/drawable/primary_button_normal.xml" value="0.5661458333333333" />
         <entry key="commons/common-ui/src/main/res/drawable/primary_button_pressed.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/round_blue.xml" value="0.5092592592592593" />
@@ -38,13 +40,16 @@
         <entry key="commons/common-ui/src/main/res/drawable/selector_blue_clickable.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/selector_blue_tappable.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/selector_blue_tappable_feedback.xml" value="0.5092592592592593" />
-        <entry key="commons/common-ui/src/main/res/drawable/selector_primary_button.xml" value="0.5092592592592593" />
+        <entry key="commons/common-ui/src/main/res/drawable/selector_primary_button.xml" value="0.5661458333333333" />
+        <entry key="commons/common-ui/src/main/res/drawable/selector_primary_button_uhc.xml" value="0.5661458333333333" />
         <entry key="commons/common-ui/src/main/res/drawable/selector_secondary_button.xml" value="0.5092592592592593" />
+        <entry key="commons/common-ui/src/main/res/drawable/selector_small_secondary_button_uhc.xml" value="0.5661458333333333" />
         <entry key="commons/common-ui/src/main/res/drawable/selector_teal_clickable.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/selector_tertiary_button1.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/shape_round_blue.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/shape_round_blue_disabled.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/shape_round_blue_pressed.xml" value="0.5092592592592593" />
+        <entry key="commons/common-ui/src/main/res/drawable/small_secondary_button_pressed_uhc.xml" value="0.5661458333333333" />
         <entry key="commons/common-ui/src/main/res/drawable/tertiary_button1_normal.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/tertiary_button1_pressed.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/layout/view_text_input.xml" value="0.5510416666666667" />
