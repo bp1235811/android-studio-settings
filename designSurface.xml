@@ -8,6 +8,9 @@
         <entry key="commons/common-ui/src/main/res/drawable/bg_edittext_selected.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/bg_orange_gradient.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/bg_round_light_leaf.xml" value="0.5277777777777778" />
+        <entry key="commons/common-ui/src/main/res/drawable/ic_arrow_back.xml" value="0.5661458333333333" />
+        <entry key="commons/common-ui/src/main/res/drawable/ic_arrow_white.xml" value="0.5203703703703704" />
+        <entry key="commons/common-ui/src/main/res/drawable/ic_avatar_placeholder.xml" value="0.5203703703703704" />
         <entry key="commons/common-ui/src/main/res/drawable/ic_close.xml" value="0.5661458333333333" />
         <entry key="commons/common-ui/src/main/res/drawable/ic_close_gray.xml" value="0.5661458333333333" />
         <entry key="commons/common-ui/src/main/res/drawable/ic_close_red.xml" value="0.5092592592592593" />
@@ -55,7 +58,9 @@
         <entry key="commons/common-ui/src/main/res/layout/view_text_input.xml" value="0.5510416666666667" />
         <entry key="commons/devices-presentation/src/main/res/layout/fragment_recycler_view.xml" value="0.5651041666666666" />
         <entry key="health-activity/challenges-presentation/src/main/res/layout/fragment_challenges_join_by_invite_code.xml" value="0.5510416666666667" />
+        <entry key="health-activity/challenges-presentation/src/main/res/menu/menu_ucc_create_fragment.xml" value="0.4666666666666667" />
         <entry key="health-activity/goals-presentation/src/main/res/layout/fragment_goals_summary.xml" value="0.5510416666666667" />
+        <entry key="health-activity/goals-presentation/src/main/res/menu/menu_goal_selection.xml" value="0.5510416666666667" />
         <entry key="health-activity/missions-presentation/src/main/res/layout/mission_checkin_done_view.xml" value="0.5510416666666667" />
         <entry key="rally-android-app/survey-presentation/src/main/res/layout/fragment_survey.xml" value="0.5510416666666667" />
         <entry key="rally-android-app/survey-presentation/src/main/res/layout/view_survey_error.xml" value="0.5510416666666667" />
