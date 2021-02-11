@@ -62,6 +62,7 @@
         <entry key="health-activity/goals-presentation/src/main/res/layout/fragment_goals_summary.xml" value="0.5510416666666667" />
         <entry key="health-activity/goals-presentation/src/main/res/menu/menu_goal_selection.xml" value="0.5510416666666667" />
         <entry key="health-activity/missions-presentation/src/main/res/layout/mission_checkin_done_view.xml" value="0.5510416666666667" />
+        <entry key="rally-android-app/biometrics-presentation/src/main/res/layout/fragment_biometrics_landing.xml" value="0.1" />
         <entry key="rally-android-app/survey-presentation/src/main/res/layout/fragment_survey.xml" value="0.5510416666666667" />
         <entry key="rally-android-app/survey-presentation/src/main/res/layout/view_survey_error.xml" value="0.5510416666666667" />
         <entry key="rally-android-app/survey-presentation/src/main/res/layout/view_survey_interstitial.xml" value="0.5510416666666667" />
