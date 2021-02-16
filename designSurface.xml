@@ -55,6 +55,7 @@
         <entry key="commons/common-ui/src/main/res/drawable/small_secondary_button_pressed_uhc.xml" value="0.5661458333333333" />
         <entry key="commons/common-ui/src/main/res/drawable/tertiary_button1_normal.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/tertiary_button1_pressed.xml" value="0.5092592592592593" />
+        <entry key="commons/common-ui/src/main/res/layout/view_expandable_textview.xml" value="0.4244791666666667" />
         <entry key="commons/common-ui/src/main/res/layout/view_text_input.xml" value="0.5510416666666667" />
         <entry key="commons/devices-presentation/src/main/res/layout/fragment_recycler_view.xml" value="0.5651041666666666" />
         <entry key="health-activity/challenges-presentation/src/main/res/layout/fragment_challenges_join_by_invite_code.xml" value="0.5510416666666667" />
@@ -144,7 +145,7 @@
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_gift_card_landing.xml" value="0.5651041666666666" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_gift_card_order_summary.xml" value="0.5510416666666667" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_marketplace_detail.xml" value="0.5510416666666667" />
-        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_po_summary.xml" value="0.1" />
+        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_po_summary.xml" value="0.4244791666666667" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_rally_rewards.xml" value="0.5651041666666666" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_rewards_dashboard.xml" value="0.5425641025641026" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_see_all_giftcards.xml" value="0.13973799126637554" />
