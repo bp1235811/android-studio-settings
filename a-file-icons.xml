@@ -5,5 +5,7 @@
     <option name="monochromeColor" value="546e7a" />
     <option name="isUseHollowFolders" value="false" />
     <option name="isAccentColorEnabled" value="true" />
+    <option name="accentColor" value="ff9800" />
+    <option name="themedColor" value="a7a7a7" />
   </component>
 </application>
