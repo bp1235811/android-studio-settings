@@ -2,32 +2,37 @@
   <component name="MaterialThemeConfig">
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
     <option name="highContrast" value="true" />
-    <option name="highlightColorEnabled" value="true" />
     <option name="allowDataCollection" value="true" />
+    <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="darkTitleBar" value="true" />
-    <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
+    <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="statusBarTheme" value="false" />
+    <option name="themedScrollbars" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
-    <option name="useMaterialFont2" value="true" />
+    <option name="useColoredDirectories" value="false" />
     <option name="indicatorStyle" value="None" />
-    <option name="customSidebarHeight" value="20" />
     <option name="tabOpacity" value="25" />
+    <option name="treeFontSize" value="10" />
+    <option name="tabFontSize" value="15" />
+    <option name="indicatorThickness" value="5" />
     <option name="leftTreeIndent" value="2" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="rightTreeIndent" value="2" />
     <option name="tabsHeight" value="12" />
-    <option name="accentColor" value="ff9800" />
-    <option name="highlightColor" value="cbae00" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="accentColor" value="2eca7a" />
+    <option name="highlightColor" value="e26f9d" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-640ef07e:166419f0450:-7fff" />
     <option name="version" value="5.2.0" />
     <option name="tabHighlightPosition" value="Bottom" />
