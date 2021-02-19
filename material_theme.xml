@@ -20,7 +20,6 @@
     <option name="pristineConfig" value="false" />
     <option name="statusBarTheme" value="false" />
     <option name="themedScrollbars" value="false" />
-    <option name="treeFontSizeEnabled" value="true" />
     <option name="useColoredDirectories" value="false" />
     <option name="indicatorStyle" value="None" />
     <option name="tabOpacity" value="25" />
@@ -29,10 +28,11 @@
     <option name="indicatorThickness" value="5" />
     <option name="leftTreeIndent" value="2" />
     <option name="rightTreeIndent" value="2" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="12" />
-    <option name="accentColor" value="ff9800" />
+    <option name="accentColor" value="2eca7a" />
     <option name="highlightColor" value="e26f9d" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-640ef07e:166419f0450:-7fff" />
     <option name="version" value="5.2.0" />
     <option name="tabHighlightPosition" value="Bottom" />
