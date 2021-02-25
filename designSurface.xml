@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../layout/custom_preview.xml" value="0.4510416666666667" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="commons/common-ui/src/main/res/drawable/bg_blue_tappable.xml" value="0.5092592592592593" />
         <entry key="commons/common-ui/src/main/res/drawable/bg_edittext_error.xml" value="0.35833333333333334" />
         <entry key="commons/common-ui/src/main/res/drawable/bg_edittext_selected.xml" value="0.5092592592592593" />
@@ -145,6 +145,7 @@
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_gift_card_landing.xml" value="0.5651041666666666" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_gift_card_order_summary.xml" value="0.5510416666666667" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_marketplace_detail.xml" value="0.5510416666666667" />
+        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_po_activities.xml" value="0.1" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_po_summary.xml" value="0.4244791666666667" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_rally_rewards.xml" value="0.5651041666666666" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_rewards_dashboard.xml" value="0.5425641025641026" />
