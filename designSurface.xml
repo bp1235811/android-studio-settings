@@ -155,6 +155,7 @@
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_sweepstakes_entry_success.xml" value="0.5651041666666666" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/fragment_sweepstakes_landing.xml" value="0.5619791666666667" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/item_donations.xml" value="0.33" />
+        <entry key="rewards/rallyrewards-presentation/src/main/res/layout/item_marketplace_redeemed_activity_card.xml" value="0.5661458333333333" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/item_po_activity.xml" value="0.55" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/item_po_k_of_n_sub_activity.xml" value="0.5510416666666667" />
         <entry key="rewards/rallyrewards-presentation/src/main/res/layout/item_po_mission_activity_status.xml" value="0.5510416666666667" />
