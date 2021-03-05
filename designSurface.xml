@@ -69,6 +69,7 @@
         <entry key="rally-android-app/survey-presentation/src/main/res/layout/view_survey_error.xml" value="0.5510416666666667" />
         <entry key="rally-android-app/survey-presentation/src/main/res/layout/view_survey_interstitial.xml" value="0.5510416666666667" />
         <entry key="rally-android-app/survey-presentation/src/main/res/layout/view_survey_question_list.xml" value="0.5510416666666667" />
+        <entry key="rally-android-app/user-presentation/src/main/res/layout/fragment_user_profile_creation.xml" value="0.16458333333333333" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_edittext_normal_uhc.xml" value="0.3619791666666667" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_edittext_uhc.xml" value="0.33177083333333335" />
         <entry key="rewards/rallyrewards-bundle/src/main/res/drawable/bg_spinner_error_uhc.xml" value="0.33177083333333335" />
